@@ -204,7 +204,8 @@ def main():
 
     # ===================== FOOTER =====================
     st.markdown("---")
-    st.caption("Simple Banking System • Made with ❤️ using Streamlit")
+    st.caption("Built by Ayman with ❤️ using Streamlit")
 
 if __name__ == "__main__":
+
     main()
